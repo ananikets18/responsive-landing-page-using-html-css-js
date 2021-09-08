@@ -1,1 +1,1 @@
-# responsive-landing-page-using-html-css-js
+# Responsive-landing-page-using-html-css-js
